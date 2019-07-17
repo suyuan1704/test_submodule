@@ -1,0 +1,3 @@
+[submodule "ESP8266-Demos"]
+	path = ESP8266-Demos
+	url = https://github.com/AngelLiang/ESP8266-Demos
