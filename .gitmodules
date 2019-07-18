@@ -1,7 +1,0 @@
-[submodule "ESP8266-Demos"]
-	path = ESP8266-Demos
-	url = https://github.com/AngelLiang/ESP8266-Demos
-[submodule "esp8266_aliyun_mqtt_app"]
-	path = esp8266_aliyun_mqtt_app
-	url = https://github.com/AngelLiang/esp8266_aliyun_mqtt_app.git
-	branch = master
